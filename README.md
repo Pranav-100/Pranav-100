@@ -46,6 +46,6 @@
 
 <br clear="both">
 ![Snake animation](https://github.com/Pranav-100/Pranav-100/blob/output/github-contribution-grid-snake-dark.svg)
-<!-- <img src="https://raw.githubusercontent.com/Pranav-100/Pranav-100/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://github.com/Pranav-100/Pranav-100/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ###
