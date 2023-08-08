@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pranav Patil<br>"Emerging Java Developer Embarking on Exciting Coding Adventures"</h2>
+<h2 align="left">Hi 👋! My name is Pranav Patil<br>Emerging Java Developer Embarking on Exciting Coding Adventures</h2>
 
 ###
 
