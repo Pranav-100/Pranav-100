@@ -46,7 +46,5 @@
 
 <br clear="both">
 
-##
-<img src="https://github.com/Pranav-100/Pranav-100/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ###
